@@ -1,0 +1,8 @@
+Teksts1
+Teksts2
+Teksts3 
+.
+..
+...
+....
+Teksts4
